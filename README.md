@@ -12,9 +12,9 @@ more information about this game in [Wikipedia](http://en.wikipedia.org/wiki/Pon
 -  Computer: acer 3947z with windows 7 Home x86 
 
 ## Important
-Read the [slik2D javadoc](http://slick.ninjacave.com/javadoc/) to find information about how to use slick2D.
+Read the [slik2D's javadoc](http://slick.ninjacave.com/javadoc/) to find information about how to use slick2D.
 
-This code is old, the game was tested, the tests was successful, but since its creation never was improved.
+This code is old, the game was tested, the tests were successful, but since its creation never was improved.
 
 
 --------------
