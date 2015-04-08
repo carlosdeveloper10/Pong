@@ -3,7 +3,7 @@ The classic and old game: pong. It  was developed using slick2D
 
 ## What is this?
 This is the classical and funny game; named pong. Originally it was developed in 1972,
-more infomation about this game in [Wikipedia](http://en.wikipedia.org/wiki/Pong)
+more information about this game in [Wikipedia](http://en.wikipedia.org/wiki/Pong)
 
 ## Tools used to create this game
 -  programming lenguage: Java
